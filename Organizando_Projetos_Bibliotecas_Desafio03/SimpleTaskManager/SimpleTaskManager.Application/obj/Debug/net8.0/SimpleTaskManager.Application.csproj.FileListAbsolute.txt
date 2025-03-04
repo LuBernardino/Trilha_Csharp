@@ -1,0 +1,15 @@
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\bin\Debug\net8.0\SimpleTaskManager.Application.deps.json
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\bin\Debug\net8.0\SimpleTaskManager.Application.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\bin\Debug\net8.0\SimpleTaskManager.Application.pdb
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\bin\Debug\net8.0\SimpleTaskManager.Communication.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\bin\Debug\net8.0\SimpleTaskManager.Communication.pdb
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\obj\Debug\net8.0\SimpleTaskManager.Application.csproj.AssemblyReference.cache
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\obj\Debug\net8.0\SimpleTaskManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\obj\Debug\net8.0\SimpleTaskManager.Application.AssemblyInfoInputs.cache
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\obj\Debug\net8.0\SimpleTaskManager.Application.AssemblyInfo.cs
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\obj\Debug\net8.0\SimpleTaskManager.Application.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\obj\Debug\net8.0\SimpleTa.316CD50D.Up2Date
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\obj\Debug\net8.0\SimpleTaskManager.Application.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\obj\Debug\net8.0\refint\SimpleTaskManager.Application.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\obj\Debug\net8.0\SimpleTaskManager.Application.pdb
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Application\obj\Debug\net8.0\ref\SimpleTaskManager.Application.dll

@@ -1,0 +1,11 @@
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Communication\bin\Debug\net8.0\SimpleTaskManager.Communication.deps.json
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Communication\bin\Debug\net8.0\SimpleTaskManager.Communication.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Communication\bin\Debug\net8.0\SimpleTaskManager.Communication.pdb
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Communication\obj\Debug\net8.0\SimpleTaskManager.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Communication\obj\Debug\net8.0\SimpleTaskManager.Communication.AssemblyInfoInputs.cache
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Communication\obj\Debug\net8.0\SimpleTaskManager.Communication.AssemblyInfo.cs
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Communication\obj\Debug\net8.0\SimpleTaskManager.Communication.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Communication\obj\Debug\net8.0\SimpleTaskManager.Communication.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Communication\obj\Debug\net8.0\refint\SimpleTaskManager.Communication.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Communication\obj\Debug\net8.0\SimpleTaskManager.Communication.pdb
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\SimpleTaskManager\SimpleTaskManager.Communication\obj\Debug\net8.0\ref\SimpleTaskManager.Communication.dll

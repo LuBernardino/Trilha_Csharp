@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8vLt4LWhgJq4h3uLKXKM1B5FCkpJfh9WEEyw/nesJfM=",
+  "Source": "SimpleTaskManager.API",
+  "BasePath": "_content/SimpleTaskManager.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

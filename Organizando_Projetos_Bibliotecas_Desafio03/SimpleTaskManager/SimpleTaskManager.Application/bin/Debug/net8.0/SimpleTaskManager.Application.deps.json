@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SimpleTaskManager.Application/1.0.0": {
+        "dependencies": {
+          "SimpleTaskManager.Communication": "1.0.0"
+        },
+        "runtime": {
+          "SimpleTaskManager.Application.dll": {}
+        }
+      },
+      "SimpleTaskManager.Communication/1.0.0": {
+        "runtime": {
+          "SimpleTaskManager.Communication.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleTaskManager.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleTaskManager.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
