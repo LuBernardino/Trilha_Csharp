@@ -1,0 +1,11 @@
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\Petfolio\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.deps.json
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\Petfolio\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\Petfolio\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.pdb
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.AssemblyInfoInputs.cache
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.AssemblyInfo.cs
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\Petfolio\Petfolio.Communication\obj\Debug\net8.0\refint\Petfolio.Communication.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.pdb
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Organização de projetos e bibliotecas\Petfolio\Petfolio.Communication\obj\Debug\net8.0\ref\Petfolio.Communication.dll
