@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D7uvnEQE4Og=",
+  "success": true,
+  "projectFilePath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luana\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
