@@ -1,0 +1,16 @@
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.deps.json
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.pdb
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Communication.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Communication.pdb
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.AssemblyReference.cache
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.AssemblyInfoInputs.cache
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.AssemblyInfo.cs
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.sourcelink.json
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTe.14C365E1.Up2Date
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\refint\CommonTestUtilities.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.pdb
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\ref\CommonTestUtilities.dll

@@ -579,11 +579,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+      "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
       "projectName": "CashFlow.Api",
-      "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+      "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
       "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-      "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Api\\obj\\",
+      "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -605,17 +605,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
-              "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
+            "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
+              "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
             },
-            "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-              "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+            "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+              "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
             },
-            "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-              "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
+            "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+              "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
             },
-            "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
-              "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj"
+            "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
+              "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj"
             }
           }
         }

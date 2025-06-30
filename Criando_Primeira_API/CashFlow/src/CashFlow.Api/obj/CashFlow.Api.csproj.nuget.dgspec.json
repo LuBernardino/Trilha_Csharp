@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj": {}
+    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj": {}
   },
   "projects": {
-    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj": {
+    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+        "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
         "projectName": "CashFlow.Api",
-        "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+        "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
         "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-        "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Api\\obj\\",
+        "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,17 +33,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
+              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
+                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
               },
-              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
               },
-              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
+              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
               },
-              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj"
+              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
+                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
+    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+        "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
         "projectName": "CashFlow.Application",
-        "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+        "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
         "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-        "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Application\\obj\\",
+        "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,14 +120,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
               },
-              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
+              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
               },
-              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
+              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
               }
             }
           }
@@ -172,14 +172,14 @@
         }
       }
     },
-    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+        "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
         "projectName": "CashFlow.Communication",
-        "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+        "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
         "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-        "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Communication\\obj\\",
+        "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -237,14 +237,14 @@
         }
       }
     },
-    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
         "projectName": "CashFlow.Domain",
-        "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
         "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-        "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Domain\\obj\\",
+        "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -302,14 +302,14 @@
         }
       }
     },
-    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+        "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
         "projectName": "CashFlow.Exception",
-        "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+        "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
         "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-        "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Exception\\obj\\",
+        "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Exception\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -367,14 +367,14 @@
         }
       }
     },
-    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
+    "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
+        "projectUniqueName": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
         "projectName": "CashFlow.Infrastructure",
-        "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
+        "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-        "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Infrastructure\\obj\\",
+        "outputPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -396,8 +396,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Primeiros passos criando a nossa API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
+              "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+                "projectPath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
               }
             }
           }

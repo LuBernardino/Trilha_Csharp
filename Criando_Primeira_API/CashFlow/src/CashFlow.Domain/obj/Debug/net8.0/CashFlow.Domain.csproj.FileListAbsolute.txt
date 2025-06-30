@@ -9,3 +9,15 @@ D:\ESTUDOS\Rocketseat\Trilha CSharp\Primeiros passos criando a nossa API\CashFlo
 D:\ESTUDOS\Rocketseat\Trilha CSharp\Primeiros passos criando a nossa API\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
 D:\ESTUDOS\Rocketseat\Trilha CSharp\Primeiros passos criando a nossa API\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
 D:\ESTUDOS\Rocketseat\Trilha CSharp\Primeiros passos criando a nossa API\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.deps.json
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.pdb
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfoInputs.cache
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfo.cs
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
+D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll

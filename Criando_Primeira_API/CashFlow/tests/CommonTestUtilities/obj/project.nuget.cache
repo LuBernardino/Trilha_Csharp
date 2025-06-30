@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ToZ80kHcQIc=",
+  "success": true,
+  "projectFilePath": "D:\\ESTUDOS\\Rocketseat\\Trilha CSharp\\Trilha_Csharp\\Criando_Primeira_API\\CashFlow\\tests\\CommonTestUtilities\\CommonTestUtilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luana\\.nuget\\packages\\bogus\\35.6.3\\bogus.35.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

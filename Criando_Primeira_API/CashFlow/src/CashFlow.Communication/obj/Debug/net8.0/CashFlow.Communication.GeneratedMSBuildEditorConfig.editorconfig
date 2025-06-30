@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CashFlow.Communication
-build_property.ProjectDir = D:\ESTUDOS\Rocketseat\Trilha CSharp\Primeiros passos criando a nossa API\CashFlow\src\CashFlow.Communication\
+build_property.ProjectDir = D:\ESTUDOS\Rocketseat\Trilha CSharp\Trilha_Csharp\Criando_Primeira_API\CashFlow\src\CashFlow.Communication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
